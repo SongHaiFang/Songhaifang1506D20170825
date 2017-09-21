@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Songhaifang1506D20170825.iml" filepath="$PROJECT_DIR$/Songhaifang1506D20170825.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apk_skin/apk_skin.iml" filepath="$PROJECT_DIR$/apk_skin/apk_skin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lunpan/lunpan.iml" filepath="$PROJECT_DIR$/lunpan/lunpan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myduo/myduo.iml" filepath="$PROJECT_DIR$/myduo/myduo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhot/myhot.iml" filepath="$PROJECT_DIR$/myhot/myhot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myphotoview/myphotoview.iml" filepath="$PROJECT_DIR$/myphotoview/myphotoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlistviewlibrary/xlistviewlibrary.iml" filepath="$PROJECT_DIR$/xlistviewlibrary/xlistviewlibrary.iml" />
+    </modules>
+  </component>
+</project>
